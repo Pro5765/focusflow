@@ -78,8 +78,8 @@ focusflow/
 
 ## Author
 👤 Ark Barua
-📧 [Email](arkbarua16@gmail.com)
-🔗 [LinkedIn](www.linkedin.com/in/arkbarua)
+📧 [Email](mailto:arkbarua16@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arkbarua)
 💻 [GitHub](https://github.com/Pro5765)
 
 ---
