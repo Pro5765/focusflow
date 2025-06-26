@@ -19,8 +19,6 @@ Live Demo 👉 [https://focusflow-flax.vercel.app](https://focusflow-flax.vercel
 |-----------------------------------|-----------------------------------|---------------------------------------|
 | ![login](./screenshots/login.png) | ![timer](./screenshots/timer.png) | ![profile](./screenshots/profile.png) |
 
-> (Add your own screenshots in a `screenshots/` folder)
-
 ---
 
 ## ⚙ Features
@@ -58,6 +56,8 @@ Live Demo 👉 [https://focusflow-flax.vercel.app](https://focusflow-flax.vercel
 3. **Start the app**
    npm start
 
+---
+
 ## Project Structure
 focusflow/
 │
@@ -74,14 +74,20 @@ focusflow/
 ├── package.json
 └── README.md
 
+---
+
 ## Author
 👤 Ark Barua
 📧 [Email](arkbarua16@gmail.com)
 🔗 [LinkedIn](www.linkedin.com/in/arkbarua)
 💻 [GitHub](https://github.com/Pro5765)
 
+---
+
 ## License
 This project is open-source and free to use ✌️
+
+---
 
 ## Acknowledgments
 Thanks to the **Pomodoro Technique** community for the inspiration! 
